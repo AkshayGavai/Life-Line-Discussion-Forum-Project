@@ -85,8 +85,7 @@ A Admin will have rights like delete all thread, delete all posts, lock a partic
 
 ### Admin Section -  Managing Categories:
 ![image](https://user-images.githubusercontent.com/38922535/148646976-f8f90020-0edb-43dc-b62b-9cbb9823cac2.png)
-
-# Run Locally  
+###### Run Locally  
 
 
 # Debug/Feature Request
@@ -95,29 +94,29 @@ Please include the sample queries and their corresponding results.
 
 # Tech Stack  
 Project is built with:-  
-### Client:  
-
+### Client:
 PHP  
 HTML  
 CSS  
 JavaScript  
 Bootstrap  
 
-### Server:
+#### Server:
 local server XAMPP  
 
-### Database:
-
+#### Database:
 Mysql
 
 # Authors
-@[Akshay Gavai](https://github.com/AkshayGavai/)
+## Hello, I'm Akshay! 👨🏼‍💻  
+🔗 Links  
+[linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/)  
+[Github](https://github.com/AkshayGavai/)   
+[Instagram](https://www.instagram.com/akki_gavai/)  
+[Mail](akshaygavai9@gmail.com)  
 
-Hello, I'm Shreyas! 👨🏼‍💻
-🔗 Links
-[linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/)
 
-Feedback
+# Feedback
 If you have any feedback, please reach out to us at akshaygavai95@gmail.com
 
 
