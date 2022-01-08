@@ -110,10 +110,11 @@ Mysql
 # Authors
 ## Hello, I'm Akshay! 👨🏼‍💻  
 🔗 Links  
-[linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/)  
-[Github](https://github.com/AkshayGavai/)   
-[Instagram](https://www.instagram.com/akki_gavai/)  
-[Mail](akshaygavai9@gmail.com)  
+- 📫 How to reach me: ...  
+[![linkedin badge](https://img.shields.io/badge/Akshay_Gavai-Connect-9cf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akshay-gavai-9ba340156/)
+[![linkedin badge](https://img.shields.io/badge/Akshay_Gavai-Mail-9cf?style=for-the-badge&logo=gmail)](Mailto:akshaygavai95@gmail.com)
+[![linkedin badge](https://img.shields.io/badge/akki_gavai-Follow-9cf?style=for-the-badge&logo=instagram)](https://www.instagram.com/akki_gavai/)
+[![linkedin badge](https://img.shields.io/badge/akki_gavai-Follow-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/akki_gavai)
 
 
 # Feedback
