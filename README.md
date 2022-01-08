@@ -20,9 +20,9 @@ The Life-line Problem Solver is proposed with a goal to improve the current syst
 •	The system would be user friendly.  
 •	Simple UI and easy to use components  
 
-## **Users Features**  
+# **Users Features**  
 •	Comment on other user Post  
-•	Post Qeastion   
+•	Post Question   
 •	View Discussion   
 •	View topics   
 •	View posts   
@@ -30,7 +30,7 @@ The Life-line Problem Solver is proposed with a goal to improve the current syst
 •	Can register  
 •	Can login  
 
-## **Admin Features:**    
+# **Admin Features:**    
 •	View board  
 •	View topics  
 •	View posts  
@@ -45,7 +45,7 @@ Moreover he/she has been given some special rights as mention below:
 A moderator will have one category to Admin.  
 A Admin will have rights like delete all thread, delete all posts, lock a particular thread in his/her category area.
 
-## **Screen Layouts:**  
+# **Screen Layouts:**  
 
 ### User Login Page:  
 ![image](https://user-images.githubusercontent.com/38922535/148646850-85ce9020-c3e3-40c8-a624-684fef5cf6a0.png)  
@@ -85,6 +85,40 @@ A Admin will have rights like delete all thread, delete all posts, lock a partic
 
 ### Admin Section -  Managing Categories:
 ![image](https://user-images.githubusercontent.com/38922535/148646976-f8f90020-0edb-43dc-b62b-9cbb9823cac2.png)
+
+# Run Locally  
+
+
+# Debug/Feature Request
+If you find any bug or have some idea about a new feature that can be implemented, you can either open an issue here or you can directly mail us at akshaygavai95@gmail.com.
+Please include the sample queries and their corresponding results.  
+
+# Tech Stack  
+Project is built with:-  
+### Client:  
+
+PHP  
+HTML  
+CSS  
+JavaScript  
+Bootstrap  
+
+### Server:
+local server XAMPP  
+
+### Database:
+
+Mysql
+
+# Authors
+@[Akshay Gavai](https://github.com/AkshayGavai/)
+
+Hello, I'm Shreyas! 👨🏼‍💻
+🔗 Links
+[linkedin](https://www.linkedin.com/in/akshay-gavai-9ba340156/)
+
+Feedback
+If you have any feedback, please reach out to us at akshaygavai95@gmail.com
 
 
 
